@@ -1,5 +1,3 @@
-Hi, I'm Tadgh. I'm a software developer, metrological engineer and your next teammate! I'm an experienced Javascript and Python developer with experience in Java, C# and Assembly.
-
-Please excuse my lack of github uploads, my current position doesn't use github.
+Hi, I'm Tadgh. I'm a software developer, metrological engineer and your next teammate! I'm have the most experience in Javascript, but also have experience with Java, C#, Python, and Assembly.
 
 https://tadghwagstaff.com/
