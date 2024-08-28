@@ -1,1 +1,1 @@
-On my own time I build applications in JavaScript, TypeScript, Python, and Rust, at work I use Java and JavaScript. If you'd like to know about what I'm working on don't hesitate to email me at tadgh@tadghwagstaff.com - projects on my github mostly demos for interviews
+On my own time I build applications in JavaScript, TypeScript, Python, and Rust, at work I use Java and JavaScript. If you'd like to know about what I'm working on don't hesitate to email me at tadgh@tadghwagstaff.com - the public stuff on my github is mostly demos for interviews
